@@ -1,0 +1,3 @@
+﻿string/Name,int/LandType,int/UIFormsDepth,string/ResourcesPath,string/AssetBundlePath,string/AssetName,string/Des
+PhotoAlbumPermissionUIForm,0,3,UIPrefabs/NoticeItem/Item01,,,没有相册权限提醒UI窗口
+NoNetworkUIForm,0,3,UIPrefabs/NoticeItem/Item01,,,没有网络提醒UI窗口
